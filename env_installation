@@ -1,0 +1,5 @@
+-To export python dependencies in conda use this code, make sure you already activate the environment before exporting
+conda env export > \<your specified location>\test_env.yaml
+
+-To make python environment using yaml file
+conda env create -f \<your file location>\test_env.yaml
