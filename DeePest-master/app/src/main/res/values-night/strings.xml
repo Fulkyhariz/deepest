@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etPassword_hint">Type your password</string>
+    <string name="etEmail_hint">Type your email</string>
+    <string name="etName_hint">Type your name</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="old_user">Old user?</string>
+    <string name="new_user">New user?</string>
+    <string name="logo_deepest">Logo Deepest</string>
+</resources>
