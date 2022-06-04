@@ -11,4 +11,5 @@
     <string name="old_user">Old user?</string>
     <string name="new_user">New user?</string>
     <string name="logo_deepest">Logo Deepest</string>
+    <string name="image_splashscreen">Image_SplashScreen</string>
 </resources>
