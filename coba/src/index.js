@@ -85,6 +85,24 @@ app.put('/update/:id', (req, res) => {
   });
 });
 
+app.get('/gethama', (req, res) => {
+  let id = [];
+  id[0] = 1;
+  id[1] = 2;
+  id[2] = 3;
+  const sqlQuery = "SELECT * FROM hama WHERE id_hama = ? OR id_hama = ? OR id_hama = ?";
+  db.query(sqlQuery, [id[0], id[1], id[2]], (err, result) => {
+    if (result.length > 0) {
+      res.send(result);
+    }else if(id == 0) {
+      res.send("Data Not Found");
+    }
+    else {
+      res.send(err);
+    }
+  });
+});
+
 app.listen(5000, () => {
   console.log('server berhasil berjalan ');
 });
