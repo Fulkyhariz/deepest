@@ -5,12 +5,12 @@
 Deepest is an application that can help farmers detect and mitigate the right action when they find out there are pest in their paddy plant.
 
 #### Created by Group C22-PS077 Bangkit Academy
-1. Hafizh Zuumar Setiawan (M2008F0798) - Machine Learning - Gadjah Mada University
-2. Fulky Hariz Zulkarnaen (M2010F1128) - Machine Learning  - University of Indonesia
-3. Riska Amelia (A2316F2770) - Mobile Development - Stikubank University
-4. Yopi Saputra (A7184G1785) - Mobile Development - Andalas University
-5. Putri Aditya Pratama (C2010F1137) - Cloud Computing - University of Indonesia
-6. Chusnul Nabila (C2010F1138) - Cloud Computing - University of Indonesia
+1. [Hafizh Zuumar Setiawan](https://github.com/zuumar) (M2008F0798) - Machine Learning - Gadjah Mada University
+2. [Fulky Hariz Zulkarnaen](https://github.com/Fulkyhariz) (M2010F1128) - Machine Learning  - University of Indonesia
+3. [Riska Amelia](https://github.com/rskaamel) (A2316F2770) - Mobile Development - Stikubank University
+4. [Yopi Saputra](https://github.com/yopisaputra) (A7184G1785) - Mobile Development - Andalas University
+5. [Putri Aditya Pratama](https://github.com/putriaditya) (C2010F1137) - Cloud Computing - University of Indonesia
+6. [Chusnul Nabila](https://github.com/chusnulnabila) (C2010F1138) - Cloud Computing - University of Indonesia
 
 ### Installation
 1. Download the apk file [here](https://drive.google.com/drive/folders/1M4nGHvmen3bvOWf_4nZB4XfsJ0TX3nzA?usp=sharing)
