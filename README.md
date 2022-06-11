@@ -22,6 +22,8 @@ Deepest is an application that can help farmers detect and mitigate the right ac
 <img src="https://user-images.githubusercontent.com/63392639/173190952-d2336fe7-d285-423a-bebd-cce2d4970c0a.png" width="300">
 <img src="https://user-images.githubusercontent.com/63392639/173190963-92118a68-0fd3-4648-9667-164667b259a7.png" width="300">
 
+3. The app will ask for permission to access the camera and the gallery, you have to allow it
+
 4. Here you can access the main menu, click on camera to take a picture with your own camera or click on gallery to use pictures that are available in your device
 5. After taking a picture or picking the picture, the image will be shown in the middle of the application
 <img src="https://user-images.githubusercontent.com/63392639/173191049-0332e07b-da83-4b6b-9692-5552c9f127f4.png" width="300">
