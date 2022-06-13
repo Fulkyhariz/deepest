@@ -1,7 +1,7 @@
 # DeePest
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63392639/173190444-c0166031-2ca3-4a56-8a94-3a5b8291ccf1.png" width="200">
+  <img src="https://user-images.githubusercontent.com/63392639/173215026-7d26aae5-c106-4d42-8efe-bd5a6c763d65.png" width="200">
 </p>
 
 Deepest is an application that can help farmers detect and mitigate the right action when they find out there are pest in their paddy plant.
